@@ -54,10 +54,6 @@ That's it! Cool, right?
 
 Our handy documentation can be found on official RNS website: https://docs.reactnativestarter.com 
 
-## Contributing
-
-If you find any problems, please [open an issue](https://github.com/ITopGun/React-Native-Starter/issues/new) or submit a fix as a pull request.
-
 
 ## Support
 For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
