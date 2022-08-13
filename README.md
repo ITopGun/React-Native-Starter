@@ -69,7 +69,3 @@ For any additional information please go to our [**support forum**](https://flat
 ## More from ITopGun
 - [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - React Material Admin — Material-UI Dashboard
 - [💥Sing App Dashboard](https://github.com/flatlogic/sing-app) - Free and open-source admin dashboard template built with Bootstrap 4 
-
-## License
-
-[Mozilla Public License 2.0](LICENSE)
