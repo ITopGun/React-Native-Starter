@@ -54,10 +54,6 @@ That's it! Cool, right?
 
 Our handy documentation can be found on official RNS website: https://docs.reactnativestarter.com 
 
-
-## Support
-For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
-
 ## How can I support developers?
 - Star our GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
