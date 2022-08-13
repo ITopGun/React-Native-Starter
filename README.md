@@ -27,7 +27,7 @@ A powerful react native starter template that bootstraps development of your mob
 
 ```bash
 # Clone the repo
-git clone https://github.com/flatlogic/react-native-starter.git
+git clone https://github.com/ITopGun/React-Native-Starter.git
 
 # Navigate to clonned folder and Install dependencies
 cd react-native-starter && yarn install
