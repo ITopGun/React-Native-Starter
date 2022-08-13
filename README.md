@@ -1,6 +1,6 @@
 # React Native Starter 🚀
 
-[View Demo](https://play.google.com/store/apps/details?id=com.reactnativestarter.upd) | [Download](https://github.com/ITopGun/React-Native-Starter.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
+[View Demo](https://play.google.com/store/apps/details?id=com.reactnativestarter.upd) | [Download](https://github.com/ITopGun/React-Native-Starter.git)
 
 *You're viewing the new and updated version of React Native Starter, previous version can be found under the [v1 branch](https://github.com/flatlogic/react-native-starter/tree/v1)*
 
