@@ -58,16 +58,6 @@ Our handy documentation can be found on official RNS website: https://docs.react
 
 If you find any problems, please [open an issue](https://github.com/ITopGun/React-Native-Starter/issues/new) or submit a fix as a pull request.
 
-## Want more?
-
-We have a premium version of this mobile application template that saves you even more time and money and comes with advanced features:
-- Premium RED color scheme
-- More than 5 additional screens (such as chat, profile, product item, etc.)
-- Contains an extended charting library to visualize all the data you need
-- Premium support and updates included
-- Much, much more..
-
-Read more and purchase it at https://reactnativestarter.com
 
 ## Support
 For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
