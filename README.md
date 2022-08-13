@@ -67,7 +67,7 @@ For any additional information please go to our [**support forum**](https://flat
 - Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
 
 ## More from ITopGun
-- [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - Pure css way to make inputs look prettier
+- [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - React Material Admin — Material-UI Dashboard
 - [💥Sing App Dashboard](https://github.com/flatlogic/sing-app) - Free and open-source admin dashboard template built with Bootstrap 4 
 
 ## License
