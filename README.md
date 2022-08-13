@@ -62,8 +62,6 @@ For any additional information please go to our [**support forum**](https://flat
 - Star our GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@ITopGun on Github](https://github.com/ITopGun).
-- Subscribe to React Native Starter newsletter at [reactnativestarter.com](https://reactnativestarter.com/)
-- Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
 
 ## More from ITopGun
 - [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - React Material Admin — Material-UI Dashboard
