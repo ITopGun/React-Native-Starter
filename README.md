@@ -66,8 +66,8 @@ For any additional information please go to our [**support forum**](https://flat
 - Subscribe to React Native Starter newsletter at [reactnativestarter.com](https://reactnativestarter.com/)
 - Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
 
-## More from Flatlogic
-- [✔️Awesome Bootstrap Checkboxes & Radios](https://github.com/flatlogic/awesome-bootstrap-checkbox) - Pure css way to make inputs look prettier
+## More from ITopGun
+- [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - Pure css way to make inputs look prettier
 - [💥Sing App Dashboard](https://github.com/flatlogic/sing-app) - Free and open-source admin dashboard template built with Bootstrap 4 
 
 ## License
