@@ -61,7 +61,7 @@ For any additional information please go to our [**support forum**](https://flat
 ## How can I support developers?
 - Star our GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
+- Follow [@ITopGun on Github](https://twitter.com/flatlogic).
 - Subscribe to React Native Starter newsletter at [reactnativestarter.com](https://reactnativestarter.com/)
 - Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
 
