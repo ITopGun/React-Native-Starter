@@ -61,4 +61,4 @@ Our handy documentation can be found on official RNS website: https://docs.react
 
 ## More from ITopGun
 - [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - React Material Admin — Material-UI Dashboard
-- [💥Sing App Dashboard](https://github.com/flatlogic/sing-app) - Free and open-source admin dashboard template built with Bootstrap 4 
+- [React Dashboard](https://github.com/flatlogic/react-dashboard) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
